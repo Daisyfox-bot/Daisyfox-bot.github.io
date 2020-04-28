@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+  
+    <body> 
+    
+        <h1>Travel to ....</h1>
+        <p class="travel-too"> 
+        <ul>
+        <li class="travel-too">
+        Verona, Italy
+        </li>
+        <li class="travel-too">
+        Paris, France
+        </li>
+        <li class="travel-to">
+        San Feliu De Gixoles
+        </li>
+        </ul>
+  Packing List For: <br>
+  <strong>Verona, Italy</strong>
+  <br>
+  li {
+  .travel-too= 
+ }
+  
+
+    
+    </body>
+</html>
